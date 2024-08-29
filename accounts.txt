@@ -7,3 +7,4 @@ Testing:Testing
 brokie:brokieass:59:64:93:4c:31:c7
 Brokie:Brokieskdjfsa:59:64:93:4c:31:c7
 sevenv1:test:95:57:5d:75:d5:55
+sevenv1 bug test:sevenv1:95:57:5D:75:D5:55
